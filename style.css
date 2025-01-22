@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(245, 237, 220);
+}
+h1{
+    background-color: brown;
+}
+p{
+    color: rgb(80, 98, 187);
+    border: solid purple 5px; 
+    padding: 5px;
+    margin: 30px;
+}
+
+#second{
+    background-color: aliceblue;
+}
+
+.items{
+    background-color: bisque;
+    margin: 10px;
+}
